@@ -1,7 +1,7 @@
 #!usr
 # -*- coding: UTF-8 -*-
-# Mod by: hari noobs
-# team: life of programmer
+# Mod by: Xrypto
+# team: im_your_hari
 
 
 import os
@@ -50,7 +50,7 @@ def banner():
     print WW+"  |            Made BY: I'm_Ur_Hari             |"
     print GL+"  |       Don't Play With me..I will kill U       |"
     print WW+"  |            FACEBOOK: Hari Krishnan            |"
-    print Y+"  |             INSTAGRAM: I'm_Ur_Hari              |"
+    print Y+"  |             INSTAGRAM: I'm_Your_Hari              |"
     print GL+"  |---------------------------------------------|"
     print GL+"  |        MACHANE ENJOY ENJOY... [ ^_^ ]         |"
     print GL+"  |---------------------------------------------|"
@@ -60,7 +60,7 @@ def banner():
 
 banner()
 
-print wd+"         https://www.facebook.com/balamurali.kattuparambil "
+#print wd+"         https://www.facebook.com/balamurali.kattuparambil "
 print GG+"╭────\033[91m[\033[96m FB ID\033[95m / \033[96mUsername Target\033[91m ] "
 email_target = str(raw_input(GL+"\033[92m╰────➲\033[93m  "))
 print " "
